@@ -44,13 +44,26 @@ Infra       VPS Linux · Docker · deploy via SSH
 
 ---
 
-### Alguns repositórios
+### Repositórios
+
+**Automação e integração**
 
 | | |
 |---|---|
-| [`validador-cpf`](https://github.com/onaloiroc/validador-cpf) | Validação de CPF em Node.js pelo algoritmo oficial, com testes |
+| [`n8n-workflow-inspector`](https://github.com/onaloiroc/n8n-workflow-inspector) | CLI que lê workflow do n8n pela API e resume nós, tipos e entradas |
+| [`n8n-nps-atendimento`](https://github.com/onaloiroc/n8n-nps-atendimento) | Fluxo de NPS com ramificação por nota, ERP em SQL Server e agente de IA |
 | [`Consultor-de-Tabela-FIPE`](https://github.com/onaloiroc/Consultor-de-Tabela-FIPE) | Consulta FIPE em lote a partir de planilha, via API REST |
-| [`bot-feedback`](https://github.com/onaloiroc/bot-feedback) | Coleta automatizada de feedback com exportação para Excel |
+| [`nps-whatsapp-bot`](https://github.com/onaloiroc/nps-whatsapp-bot) | Coleta de NPS por WhatsApp com resposta por faixa de nota |
+| [`bot-feedback`](https://github.com/onaloiroc/bot-feedback) | Coleta de feedback com Selenium e exportação para Excel |
+
+**Aplicações e ferramentas**
+
+| | |
+|---|---|
+| [`amazon-scraper`](https://github.com/onaloiroc/amazon-scraper) | Fullstack Node/Express + Vite, scraping com JSDOM |
+| [`autoclicker`](https://github.com/onaloiroc/autoclicker) | App desktop em Python com Tkinter, threading e atalho global |
+| [`validador-cpf`](https://github.com/onaloiroc/validador-cpf) | Validação de CPF pelo algoritmo oficial, sem dependências, com testes |
+| [`Atualizador-via-Winget`](https://github.com/onaloiroc/Atualizador-via-Winget) | Atualização em lote de máquinas Windows via winget |
 | [`Labirinto-usando-Q-Learning`](https://github.com/onaloiroc/Labirinto-usando-Q-Learning) | Aprendizado por reforço com múltiplos agentes |
 
 ---
